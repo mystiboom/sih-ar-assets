@@ -1,0 +1,15 @@
+{
+  "name": "sih-heritage-api",
+  "version": "1.0.0",
+  "description": "API for SIH Heritage Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
